@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="google_testt:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="adwitt-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="google_testt:war exploded" />
+    </root>
+  </artifact>
+</component>
